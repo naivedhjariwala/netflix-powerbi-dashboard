@@ -10,7 +10,7 @@ Power BI dashboard analyzing the Netflix titles dataset (8,800+ titles).
 - Added interactive slicers for Year, Type, and Rating
 
 ## Dashboard preview
-![Dashboard Screenshot](netflix_dashboard.png)
+netflix_dashboard.png
 
 ## Tools
 Python (pandas) • Power BI Desktop • DAX • Power Query
